@@ -1,0 +1,65 @@
+.profile-contain{
+    width: 100%;
+    height: auto;
+    /* background-color: white; */
+    border-radius: 10px;
+}
+.profile-header{
+    width: 100%;
+    height: 35%;
+    padding: 1em;
+}
+/* .profile-back{
+    height: 8%;
+    border: 1px solid black;
+    margin-bottom: 2em;
+} */
+.profile-info{
+    width: 100%;
+    height: 13em;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+}
+
+/* .picture img{
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+} */
+.info-user{
+    width: 80%;
+    height: 70%;
+    /* border: 1px solid black; */
+    color: black;
+    margin-left: 1em;    
+}
+.info-user h1{
+    font-weight: bold;
+    font-size: large;
+}
+#introduce{
+    /* color: rgb(105, 105, 105); */
+    width: 50%;
+    text-align: inherit;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+#number-playlist{
+    font-weight: 400;
+}
+.edit-button {
+    height: 10%;
+    margin: 1em;
+}
+.edit-button span{
+    margin-right: 0.2em;
+}
+.edit-button p{
+    display: flex;
+    line-height: 14px;
+    font-size: medium;
+}
+.profile-content{
+    
+}
